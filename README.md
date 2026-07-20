@@ -1,16 +1,112 @@
-# React + Vite
+# 👋 Hi, I'm Rakshita Chougale
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Frontend Developer
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio repository! This portfolio showcases my skills, experience, and production projects in frontend web development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Portfolio
 
-## React Compiler
+🔗 https://portfolio-rouge-kappa-uk5pjmesj7.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I am a Frontend Developer with experience in building responsive, scalable, and user-friendly web applications. I have worked on production projects across Banking, Healthcare, Corporate, E-Commerce, and Admin Dashboard domains.
+
+---
+
+## ✨ Features
+
+- Modern & Responsive Design
+- Built with React + Vite
+- Tailwind CSS UI
+- Smooth Animations
+- Experience Timeline
+- Tech Stack Showcase
+- Featured Projects
+- Contact Section
+- Mobile Friendly
+- Deployed on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Framer Motion
+- React Icons
+- Git & GitHub
+
+---
+
+## 💼 Featured Projects
+
+- 🏦 Newtek Bank
+- 🏢 NewtekOne
+- 🧠 The Manaha
+- 🛍️ Naari Hub
+- 📱 ShowGrid Admin
+
+---
+
+## 📂 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rakshita0711/portfolio.git
+```
+
+Go to the project folder:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📧 Contact
+
+**Rakshita Chougale**
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://www.linkedin.com/in/rakshita-chougale-0630402b5/
+
+💻 GitHub: https://github.com/rakshita0711
+
+🌐 Portfolio: https://portfolio-rouge-kappa-uk5pjmesj7.vercel.app/
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+⭐ If you like this portfolio, consider giving this repository a star!
