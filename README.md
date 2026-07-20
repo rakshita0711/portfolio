@@ -51,7 +51,7 @@ I am a Frontend Developer with experience in building responsive, scalable, and 
 - 🏢 NewtekOne
 - 🧠 The Manaha
 - 🛍️ Naari Hub
-- 📱 ShowGrid Admin
+
 
 ---
 
