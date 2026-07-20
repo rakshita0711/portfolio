@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+}
+
+body {
+  @apply bg-slate-950 text-white transition-colors duration-300;
+}
+
+.dark body {
+  @apply bg-slate-950 text-white;
+}
+
+body:not(.dark) {
+  background: #f8fafc;
+  color: #0f172a;
+}
