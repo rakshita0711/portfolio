@@ -46,15 +46,6 @@ const projects = [
     link: "https://www.naarihub.com/",
   },
 
-  {
-    title: "ShowGrid Admin",
-    category: "Admin Dashboard",
-    role: "Frontend Developer",
-    description:
-      "Built admin dashboard screens, forms, tables, CRUD interfaces, and dashboard UI for application management.",
-    technologies: ["React", "Bootstrap", "API"],
-    link: "#",
-  },
 ];
 
 export default function Projects() {
