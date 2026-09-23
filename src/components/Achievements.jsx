@@ -15,7 +15,11 @@ const achievements = [
   },
   {
     icon: <FaBuilding />,
+<<<<<<< HEAD
     number: "2",
+=======
+    number: "4+",
+>>>>>>> 537a981baf91eb29153aca2b31b6606327b3d425
     title: "Companies Worked",
     color: "text-green-400",
   },
